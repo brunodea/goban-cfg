@@ -2,3 +2,6 @@
 dconf
 # Pacman files
 go
+mozilla
+htop
+openssh-server
